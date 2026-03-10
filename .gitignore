@@ -17,3 +17,5 @@ boss-assistant/google_oauth_client.json
 boss-assistant/google_oauth_client.json.json
 # Node (do not commit dependencies)
 node_modules/
+# Next.js build output
+fullnoise/fullnoise-web/.next/
