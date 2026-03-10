@@ -1,0 +1,26 @@
+Vision Constructions — Monthly Performance Report (Generated without AI — Dry Run)
+
+1) Performance Summary
+
+• Revenue this month is $185,000.00 AUD (last month: $210,000.00 AUD).
+• Revenue is down 11.9% on last month (-$25,000.00 AUD).
+• Revenue is below budget by $15,000.00 AUD (budget: $200,000.00 AUD).
+• Jobs completed: 12 this month, 14 last month (-2 change).
+• Job count has moved -14.3% compared to last month.
+• Average revenue per job: $15,416.67 AUD this month, $15,000.00 AUD last month.
+
+2) Likely Reasons (Hypotheses)
+
+• Possible impact from fewer jobs completed or slower project progress (common in construction when weather, labour, or materials delay work).
+• Possible shortfall against plan due to delayed starts, quote conversion, or timing of invoicing.
+• Possible effect of resourcing, scheduling, or site access limiting how many jobs could be finished this month.
+
+3) Boss To-Do List (Next 30 Days)
+
+1. Follow up outstanding quotes (to convert pipeline and lock in start dates).
+2. Review pipeline and pre-book work where possible (to close the gap to budget).
+3. Check resourcing and scheduling bottlenecks (to avoid further delays next month).
+4. Chase overdue invoices (to improve cash flow).
+5. Schedule a short planning session with the team (to align on priorities for next month).
+
+Data Needed Next Month: Track outstanding quote values and overdue invoice amounts next month to improve forecasts.

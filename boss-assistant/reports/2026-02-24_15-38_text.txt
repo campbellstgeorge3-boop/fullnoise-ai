@@ -1,0 +1,22 @@
+Vision Constructions — Monthly Scorecard
+
+1) Scorecard (Facts)
+- Revenue: $185,000.00 AUD
+- Costs: N/A
+- Profit: N/A
+- Profit Margin: N/A
+- Jobs: 12
+- Budget Gap: -$15,000.00 AUD (-7.5%)
+
+2) Variance Breakdown (Facts)
+- Revenue change vs last month: -$25,000.00 AUD (-11.9%)
+- Jobs change vs last month: -2 (-14.3%)
+- Avg revenue/job change: +$416.67 AUD (+2.8%)
+
+3) Boss Actions (Next 14 Days)
+1. Close $15,000 budget gap.
+2. Increase job completion rate by 2 jobs.
+3. Review cost structure for potential savings.
+4. Analyze revenue trends for improvement.
+
+Data Needed Next: quotes sent ($ and count), overdue invoices ($ and count), callbacks/rework count

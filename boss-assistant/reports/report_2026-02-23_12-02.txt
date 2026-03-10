@@ -1,0 +1,28 @@
+Management report — Vision Constructions
+
+1) PERFORMANCE SUMMARY
+
+• Revenue this month: $185,000.00 AUD
+• Revenue last month: $210,000.00 AUD
+• Revenue change: -$25,000.00 AUD (-11.9%)
+
+• Budget this month: $200,000.00 AUD
+• Revenue vs budget: -$15,000.00 AUD (-7.5%)
+
+• Jobs completed this month: 12
+• Jobs completed last month: 14
+• Jobs change: -2 (-14.3%)
+
+• Average job value this month: $15,416.67 AUD
+• Average job value last month: $15,000.00 AUD
+• Average job value change: +2.8%
+
+
+2) LIKELY REASONS
+
+• [Dry run] No API call. Run without --dry-run to generate ranked hypotheses from the inputs and construction context.
+
+
+3) BOSS TO-DO LIST
+
+1. [Dry run] No API call. Run without --dry-run to generate 5 prioritized actions.

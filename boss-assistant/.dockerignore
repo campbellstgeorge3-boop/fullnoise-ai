@@ -1,0 +1,13 @@
+.venv
+__pycache__
+*.pyc
+.env
+.env.*
+!.env.example
+tokens
+client_tokens.json
+reports
+.git
+.gitignore
+*.md
+.DS_Store

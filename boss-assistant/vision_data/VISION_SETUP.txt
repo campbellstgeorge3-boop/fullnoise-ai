@@ -1,0 +1,26 @@
+QUICK SETUP — Vision Constructions data folder
+
+1. Put your Vision files here
+   • Copy or export your CSV/JSON files into this folder (vision_data).
+   • The app will use the NEWEST file when it runs.
+   • Supported: single-report CSV/JSON, or 12-month history CSV (columns: month, revenue, jobs_completed, budget).
+
+2. Tell the app to use this folder
+   • In the boss-assistant folder, copy auto_config.example.json to auto_config.json (if you haven't already).
+   • Open auto_config.json and ensure:
+     "data_source": "inbox"
+     "inbox_dir": "vision_data"
+   • Optional: "company_name": "Vision Constructions" (for the report header)
+
+3. Run the report
+   • Open PowerShell, then:
+     cd c:\Users\cwstg\shopping-agent-real\boss-assistant
+     .venv\Scripts\Activate.ps1
+     python run_automated.py
+   • Report is saved in boss-assistant\reports\report_YYYY-MM-DD_HH-MM.txt
+
+4. Run automatically (optional)
+   • Schedule Run_automated.bat in Windows Task Scheduler.
+   • Each time it runs, it uses the newest file in this vision_data folder — no typing needed.
+
+That's it. You only need to put files here; the app has "access" to this folder only (and writes reports to the reports folder).

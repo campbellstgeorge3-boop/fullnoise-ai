@@ -1,0 +1,187 @@
+{
+  "files": [
+    {
+      "file": "Profit and Loss Apr 25.pdf",
+      "month": "2025-04",
+      "revenue": 115714.31,
+      "budget": null,
+      "jobs": null,
+      "costs": 113065.95
+    },
+    {
+      "file": "Profit and Loss Aug 25.pdf",
+      "month": "2025-08",
+      "revenue": 219689.29,
+      "budget": null,
+      "jobs": null,
+      "costs": 189992.84
+    },
+    {
+      "file": "Profit and Loss Dec 25.pdf",
+      "month": "2025-12",
+      "revenue": 197595.08,
+      "budget": null,
+      "jobs": null,
+      "costs": 220475.47999999998
+    },
+    {
+      "file": "Profit and Loss Feb 25.pdf",
+      "month": "2025-02",
+      "revenue": 225985.97,
+      "budget": null,
+      "jobs": null,
+      "costs": 97090.76
+    },
+    {
+      "file": "Profit and Loss Jan 25.pdf",
+      "month": "2025-01",
+      "revenue": 135002.8,
+      "budget": null,
+      "jobs": null,
+      "costs": 106543.26999999999
+    },
+    {
+      "file": "Profit and Loss Jul 25.pdf",
+      "month": "2025-07",
+      "revenue": 254451.18,
+      "budget": null,
+      "jobs": null,
+      "costs": 198130.16
+    },
+    {
+      "file": "Profit and Loss Jun 25.pdf",
+      "month": "2025-06",
+      "revenue": 195376.77,
+      "budget": null,
+      "jobs": null,
+      "costs": 192660.72
+    },
+    {
+      "file": "Profit and Loss Mar 25.pdf",
+      "month": "2025-03",
+      "revenue": 156476.57,
+      "budget": null,
+      "jobs": null,
+      "costs": 151112.61000000002
+    },
+    {
+      "file": "Profit and Loss May 25.pdf",
+      "month": "2025-05",
+      "revenue": 306614.54,
+      "budget": null,
+      "jobs": null,
+      "costs": 172052.77
+    },
+    {
+      "file": "Profit and Loss Nov 25.pdf",
+      "month": "2025-11",
+      "revenue": 242439.97,
+      "budget": null,
+      "jobs": null,
+      "costs": 192394.46
+    },
+    {
+      "file": "Profit and Loss Oct 25.pdf",
+      "month": "2025-10",
+      "revenue": 287921.65,
+      "budget": null,
+      "jobs": null,
+      "costs": 211336.12
+    },
+    {
+      "file": "Profit and Loss Sep 25.pdf",
+      "month": "2025-09",
+      "revenue": 215177.73,
+      "budget": null,
+      "jobs": null,
+      "costs": 214672.45
+    }
+  ],
+  "rows": [
+    {
+      "month": "2025-04",
+      "revenue": 115714.31,
+      "budget": 0,
+      "jobs": 0,
+      "costs": 113065.95
+    },
+    {
+      "month": "2025-08",
+      "revenue": 219689.29,
+      "budget": 0,
+      "jobs": 0,
+      "costs": 189992.84
+    },
+    {
+      "month": "2025-12",
+      "revenue": 197595.08,
+      "budget": 0,
+      "jobs": 0,
+      "costs": 220475.47999999998
+    },
+    {
+      "month": "2025-02",
+      "revenue": 225985.97,
+      "budget": 0,
+      "jobs": 0,
+      "costs": 97090.76
+    },
+    {
+      "month": "2025-01",
+      "revenue": 135002.8,
+      "budget": 0,
+      "jobs": 0,
+      "costs": 106543.26999999999
+    },
+    {
+      "month": "2025-07",
+      "revenue": 254451.18,
+      "budget": 0,
+      "jobs": 0,
+      "costs": 198130.16
+    },
+    {
+      "month": "2025-06",
+      "revenue": 195376.77,
+      "budget": 0,
+      "jobs": 0,
+      "costs": 192660.72
+    },
+    {
+      "month": "2025-03",
+      "revenue": 156476.57,
+      "budget": 0,
+      "jobs": 0,
+      "costs": 151112.61000000002
+    },
+    {
+      "month": "2025-05",
+      "revenue": 306614.54,
+      "budget": 0,
+      "jobs": 0,
+      "costs": 172052.77
+    },
+    {
+      "month": "2025-11",
+      "revenue": 242439.97,
+      "budget": 0,
+      "jobs": 0,
+      "costs": 192394.46
+    },
+    {
+      "month": "2025-10",
+      "revenue": 287921.65,
+      "budget": 0,
+      "jobs": 0,
+      "costs": 211336.12
+    },
+    {
+      "month": "2025-09",
+      "revenue": 215177.73,
+      "budget": 0,
+      "jobs": 0,
+      "costs": 214672.45
+    }
+  ],
+  "out_csv": "C:\\Users\\cwstg\\shopping-agent-real\\boss-assistant\\clients_data\\default\\vision_12months.csv"
+}

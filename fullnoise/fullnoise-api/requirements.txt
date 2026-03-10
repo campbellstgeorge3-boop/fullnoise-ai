@@ -1,0 +1,25 @@
+# FullNoise AI — FastAPI backend
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-dotenv>=1.0.0
+email-validator>=2.0.0
+
+# Database
+sqlalchemy[asyncio]>=2.0.0
+asyncpg>=0.29.0
+alembic>=1.13.0
+
+# Auth (verify NextAuth JWT)
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+
+# AI & Email
+openai>=1.0.0
+resend>=2.0.0
+
+# Background worker
+arq>=0.25.0
+redis>=5.0.0
+
+# HTTP
+httpx>=0.26.0

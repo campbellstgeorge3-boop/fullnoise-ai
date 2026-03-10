@@ -1,0 +1,25 @@
+Vision Constructions — Monthly Performance Report
+
+1) Performance Summary
+- Revenue this month was $185,000.00 AUD, which is $15,000.00 AUD below the budget, indicating a need to increase job volume or average job value.
+- The business completed 12 jobs this month, down by 2 jobs from last month, contributing to the revenue shortfall.
+- Average revenue per job increased by 2.8% to $15,416.67 AUD, suggesting higher value jobs were completed despite fewer jobs overall.
+- To meet the budget, approximately 13 jobs at this month's average revenue per job are needed (200,000 ÷ 15,416.67).
+- The revenue decline of $25,000.00 AUD (-11.9%) from last month highlights the impact of reduced job volume.
+- Completing one additional average job could add about $15,416.67 AUD to revenue, helping close the budget gap.
+
+2) Likely Reasons (Hypotheses)
+- Possible scheduling/diary gaps led to fewer jobs completed (check diary for unfilled slots or cancellations).
+- Crew availability may have been reduced due to sick leave or other absences (review crew attendance records).
+- Increased travel time between jobs could have limited job capacity (analyze travel logs for inefficiencies).
+- Delays in materials for small jobs may have impacted job completion rates (check supplier delivery timelines).
+- Invoicing timing issues could have delayed revenue recognition (review invoicing process and timelines).
+
+3) Boss To-Do List (Next 30 Days)
+1. Review and optimize the scheduling diary to fill gaps and reduce cancellations (to increase job volume).
+2. Contact suppliers to ensure timely delivery of materials (to prevent job delays and increase completion rate).
+3. Analyze travel routes and adjust scheduling to minimize travel time between jobs (to increase job capacity).
+4. Implement a process to confirm job details with clients 48 hours before scheduled work (to prevent rework/callbacks).
+5. Aim to secure at least 2 additional jobs at the current average revenue per job to close the budget gap (to meet budget).
+
+Data Needed Next Month: quote count + value, diary fill rate %, callbacks/rework count

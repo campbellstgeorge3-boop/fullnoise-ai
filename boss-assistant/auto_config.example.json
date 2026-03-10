@@ -1,0 +1,8 @@
+{
+  "data_source": "inbox",
+  "inbox_dir": "vision_data",
+  "data_file": "data.json",
+  "output_dir": "reports",
+  "company_name": "Vision Constructions",
+  "dry_run": false
+}

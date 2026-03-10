@@ -1,0 +1,1 @@
+Drop your PDFs here. The Boss Assistant will read text from all PDFs in this folder and use it as context when generating reports (maintenance/small-jobs focus). No subfolders are read—only .pdf files in this folder. Install the optional dependency: pip install pypdf

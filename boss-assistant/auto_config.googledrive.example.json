@@ -1,0 +1,8 @@
+{
+  "data_source": "googledrive",
+  "googledrive_file_id": "YOUR_DRIVE_FILE_OR_SHEET_ID",
+  "company_name": "Vision Constructions",
+  "output_dir": "reports",
+  "dry_run": false,
+  "googledrive_credentials": ""
+}

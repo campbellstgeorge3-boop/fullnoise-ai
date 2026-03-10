@@ -1,0 +1,17 @@
+{
+  "clients": [
+    {
+      "id": "default",
+      "name": "Default Client",
+      "source": "google_drive",
+      "email_to": "cwstgeorge@outlook.com",
+      "recipient_first_name": null,
+      "drive_folder_id": "0AM3UL3J2_Bx8Uk9PVA",
+      "token_file": "C:\\Users\\cwstg\\shopping-agent-real\\boss-assistant\\tokens\\default_drive_token.json",
+      "myob_cf_uri": null,
+      "myob_refresh_token_env": null,
+      "pdfs_dir": "C:\\Users\\cwstg\\shopping-agent-real\\boss-assistant\\clients_data\\default\\pdfs_downloaded",
+      "csv_path": "C:\\Users\\cwstg\\shopping-agent-real\\boss-assistant\\clients_data\\default\\vision_12months.csv"
+    }
+  ]
+}

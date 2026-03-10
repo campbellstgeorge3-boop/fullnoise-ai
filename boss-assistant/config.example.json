@@ -1,0 +1,19 @@
+{
+  "company_name": "Vision Constructions",
+  "period_type": "month",
+  "currency": "AUD",
+  "current_period": {
+    "revenue": 0,
+    "jobs_completed": 0
+  },
+  "previous_period": {
+    "revenue": 0,
+    "jobs_completed": 0
+  },
+  "budget": 0,
+  "optional": {
+    "outstanding_quotes_count": null,
+    "overdue_invoices_count": null,
+    "notes": ""
+  }
+}

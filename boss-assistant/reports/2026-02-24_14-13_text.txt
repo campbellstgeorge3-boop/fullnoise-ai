@@ -1,0 +1,24 @@
+Vision Constructions — Monthly Performance Report
+
+1) Performance Summary
+- Revenue decreased by $25,000.00 AUD (-11.9%) compared to last month.
+- This month's revenue was $185,000.00 AUD, falling short of the budget by $15,000.00 AUD (-7.5%).
+- 12 jobs were completed this month, 2 fewer than last month (-14.3%).
+- Average revenue per job increased to $15,416.67 AUD, up by 2.8% from last month.
+- The number of jobs completed decreased from 14 last month to 12 this month.
+
+2) Likely Reasons (Hypotheses)
+- Possible scheduling gaps may have led to fewer jobs being completed this month.
+- Delayed invoicing or timing could have impacted the revenue collection for this period.
+- Resourcing or crew availability issues may have contributed to the reduced number of completed jobs.
+- Site access or constraints could have delayed job completion, affecting monthly revenue.
+- Changes in job mix or average job value may have influenced the revenue per job increase.
+
+3) Boss To-Do List (Next 30 Days)
+1. Review scheduling processes (to identify and address any gaps that led to fewer job completions).
+2. Conduct an invoice aging analysis (to ensure timely revenue collection and address the $15,000.00 AUD budget gap).
+3. Assess crew availability and resourcing plans (to improve job completion rates and address the 14.3% decrease).
+4. Evaluate site access protocols (to mitigate any constraints that may have delayed job completion).
+5. Analyze job mix and average job value changes (to understand their impact on revenue per job).
+
+Data Needed Next Month: Detailed job scheduling and completion timelines.

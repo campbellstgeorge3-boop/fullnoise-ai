@@ -1,0 +1,19 @@
+# Agent: don't commit user data or browser sessions
+.venv/
+__pycache__/
+*.pyc
+profile.json
+cart.json
+run_logs/
+.browser_woolies/
+.browser_coles/
+.env
+.env.local
+# Boss Assistant: real business data stays local
+boss-assistant/data.json
+# Boss Assistant: never commit OAuth tokens or client secrets
+boss-assistant/token.json
+boss-assistant/google_oauth_client.json
+boss-assistant/google_oauth_client.json.json
+# Node (do not commit dependencies)
+node_modules/

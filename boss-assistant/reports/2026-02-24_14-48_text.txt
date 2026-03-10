@@ -1,0 +1,25 @@
+Vision Constructions — Monthly Performance Report
+
+1) Performance Summary
+- Revenue decreased by $25,000.00 AUD (-11.9%) compared to last month, indicating a need to address potential issues in job volume or pricing.
+- This month's revenue was $15,000.00 AUD (-7.5%) below the budget, suggesting a shortfall in expected job completions or average job value.
+- Jobs completed decreased by 2 (-14.3%) from last month, impacting overall revenue and highlighting potential scheduling or demand issues.
+- Average revenue per job increased by 2.8% to $15,416.67 AUD, suggesting improved pricing or higher-value jobs, but not enough to offset the revenue shortfall.
+- To meet the budget, approximately 1 more average job was needed this month (budget ÷ avg revenue per job this month).
+- One additional average job would add about $15,416.67 AUD to revenue, which could have closed the budget gap.
+
+2) Likely Reasons (Hypotheses)
+- Possible diary gaps or cancellations led to fewer jobs completed (check diary gaps or cancellations count).
+- Crew availability issues may have reduced job capacity (review crew schedules and availability records).
+- Increased travel time between jobs could have limited job volume (analyze travel time logs).
+- Delays in materials for small jobs may have impacted job completion rates (review materials delivery timelines).
+- Invoicing timing issues could have affected revenue recognition for this month (check invoicing records and timing).
+
+3) Boss To-Do List (Next 30 Days)
+1. Review and optimize scheduling to fill diary gaps (ensure maximum job capacity).
+2. Contact crew to confirm availability and address any scheduling conflicts (improve job completion rates).
+3. Analyze travel routes and adjust scheduling to minimize travel time between jobs (increase job volume).
+4. Follow up on pending invoices to ensure timely revenue recognition (address budget gap).
+5. Implement a quality control check to reduce rework/callbacks (prevent capacity loss).
+
+Data Needed Next Month: quote count + value, diary fill rate %, callbacks/rework count.

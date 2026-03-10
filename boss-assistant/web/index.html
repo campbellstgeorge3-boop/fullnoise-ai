@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Boss Assistant — Monthly reports that answer back</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700&family=DM+Serif+Display&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a href="/" class="logo">Boss Assistant</a>
+      <nav>
+        <a href="#how">How it works</a>
+        <a href="#pricing">Pricing</a>
+        <a href="/client/login">Client sign in</a>
+        <a href="#contact" class="cta-nav">Get started</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <h1>Monthly reports that <em>answer back</em></h1>
+        <p class="hero-lead">Your clients get a clear financial summary every month. When they reply with a question, they get an instant answer—by email. No portal, no login.</p>
+        <a href="#contact" class="btn btn-primary">Book a call</a>
+      </div>
+    </section>
+
+    <section id="how" class="section how">
+      <div class="wrap">
+        <h2>How it works</h2>
+        <ul class="steps">
+          <li>
+            <span class="step-num">1</span>
+            <strong>We connect your numbers</strong>
+            <p>Spreadsheet, MYOB, or Google Drive—we plug into what you already use.</p>
+          </li>
+          <li>
+            <span class="step-num">2</span>
+            <strong>Monthly report, automatically</strong>
+            <p>Revenue, budget, jobs, and key metrics in one email. Plain English, no jargon.</p>
+          </li>
+          <li>
+            <span class="step-num">3</span>
+            <strong>They reply; we answer</strong>
+            <p>“What was last quarter’s revenue?” or “Send my report again.” Replies are instant and threaded in email.</p>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="pricing" class="section pricing">
+      <div class="wrap">
+        <h2>Pricing</h2>
+        <p class="pricing-intro">Simple per-client pricing. No long-term lock-in.</p>
+        <div class="price-card">
+          <div class="price-header">
+            <span class="price-label">Per client per month</span>
+            <span class="price-amount">Custom</span>
+          </div>
+          <ul class="price-features">
+            <li>Automated monthly report email</li>
+            <li>Reply-by-email Q&A on their numbers</li>
+            <li>“Send my report again” on demand</li>
+            <li>Your branding (e.g. reports@yourdomain.com)</li>
+          </ul>
+          <a href="#contact" class="btn btn-secondary">Get a quote</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section contact">
+      <div class="wrap">
+        <h2>Get started</h2>
+        <p>Tell us about your business and how many clients you want to onboard. We’ll set up a short call and send you a quote.</p>
+        <form class="contact-form" action="#" method="post" id="contact-form">
+          <label for="name">Your name</label>
+          <input type="text" id="name" name="name" required placeholder="Jane Smith" />
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" required placeholder="jane@company.com" />
+          <label for="message">What you need</label>
+          <textarea id="message" name="message" rows="4" placeholder="e.g. I have 3 clients on Xero and want monthly reports with reply-by-email."></textarea>
+          <button type="submit" class="btn btn-primary">Send message</button>
+        </form>
+        <p class="form-note">We’ll reply within one business day. No spam.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Boss Assistant — monthly reports that answer back.</p>
+      <p><a href="/client/login" style="color: #c9a227;">Client sign in</a> — view your report and ask questions.</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('contact-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+      var form = this;
+      var btn = form.querySelector('button[type="submit"]');
+      btn.textContent = 'Message sent — we’ll be in touch.';
+      btn.disabled = true;
+      fetch('/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          name: form.querySelector('#name').value,
+          email: form.querySelector('#email').value,
+          message: form.querySelector('#message').value
+        })
+      })
+      .then(function(r) { return r.json().then(function(d) { return { ok: r.ok, data: d }; }); })
+      .then(function(result) {
+        if (result.ok) {
+          btn.textContent = 'Message sent. We will be in touch.';
+          form.reset();
+        } else {
+          btn.textContent = result.data.message || 'Something went wrong. Try again.';
+          btn.disabled = false;
+        }
+      })
+      .catch(function() {
+        btn.textContent = 'Network error. Try again.';
+        btn.disabled = false;
+      });
+    });
+  </script>
+</body>
+</html>

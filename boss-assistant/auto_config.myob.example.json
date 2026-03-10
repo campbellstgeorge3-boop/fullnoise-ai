@@ -1,0 +1,14 @@
+{
+  "data_source": "myob",
+  "myob_cf_uri": "",
+  "company_name": "Vision Constructions",
+  "output_dir": "reports",
+  "dry_run": false,
+  "myob_budget": 0,
+  "myob_jobs_this": 0,
+  "myob_jobs_last": 0,
+  "myob_refresh_token_env": "MYOB_REFRESH_TOKEN",
+  "myob_client_id_env": "MYOB_CLIENT_ID",
+  "myob_client_secret_env": "MYOB_CLIENT_SECRET",
+  "myob_api_key_env": "MYOB_API_KEY"
+}
